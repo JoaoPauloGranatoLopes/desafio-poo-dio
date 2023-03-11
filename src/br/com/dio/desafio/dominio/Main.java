@@ -15,6 +15,12 @@ public class Main {
 		curso2.setTitulo("curso js");
 		curso2.setDescricao("descrição curso js");
 		curso2.setCargaHoraria(4);
+		
+		Curso curso3 = new Curso();
+		curso2.setTitulo("curso ideEclipse");
+		curso2.setDescricao("descrição curso ideEclipse");
+		curso2.setCargaHoraria(5);
+		
 
 		Conteudo conteudo = new Curso();
 
